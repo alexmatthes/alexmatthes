@@ -1,6 +1,6 @@
 # Hello, I'm Alex Matthes 👋
 
-I'm a Computer Science and Engineering student at **The Ohio State University** with a passion for systems programming and building clean, efficient software. I'm proficient in **Java, C++, and C**, and I'm always eager to learn new technologies.
+I'm a Computer Science and Engineering student at **The Ohio State University** with a passion for programming and building clean, efficient software. I'm proficient in **Java, C++, and C**, and I'm always eager to learn new technologies.
 
 I am currently seeking **Software Engineering internship opportunities** where I can contribute to meaningful projects and continue to grow as a developer.
 
